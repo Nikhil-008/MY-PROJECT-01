@@ -1,0 +1,54 @@
+“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
+—Bill Gates
+
+“Everyone in this country should learn how to program because it teaches you how to think” – Steve Jobs
+
+“I always think of coding in literature, I think of coding like poetry, it is just a compact expression. Coding can inspire you, in both liberal arts as well as in sciences to really make a difference,” Satya Nadella
+
+E 6
+
+
+"Programming isn't about what you know; it's about what you can figure out.”
+
+"The only way to learn a new programming language is by writing programs in it."
+
+"Sometimes it's better to leave something alone, to pause, and that's very true of programming."
+
+"Testing leads to failure, and failure leads to understanding."
+
+"The best error message is the one that never shows up."
+
+"Don't write better error messages, write code that doesn't need them."
+
+
+
+
+Is coding a good career?
+
+In a world that runs on technology, programming skills offer excellent career options, from software engineering to front-end development. Computer programming is also one of the most flexible careers; it offers many specialization opportunities, the ability to work remotely, and more
+
+
+Coding jobs are in demand, and the Bureau of Labor Statistics (BLS) projects that computer and information technology employment will grow 13% between 2020 and 2030
+
+
+
+
+How programming will change over the next 10 years: 5 predictions
+
+
+1. Programming will be more abstract
+2. AI will become part of every developer’s toolkit–but won’t replace them
+3. A universal programming language will arise
+4. Every developer will need to work with data
+5. Programming will be a core tenet of the education system
+
+
+
+
+
+
+
+
+
+
+
